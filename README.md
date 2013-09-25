@@ -1,4 +1,5 @@
-next-board
-==========
+NEcasa
 
-next 수업에서 만들 게시판
+NExt picasa ㅇㅂㅇ
+
+by Jinwoo Kim
