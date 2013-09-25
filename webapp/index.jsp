@@ -1,16 +1,12 @@
-<%--
-  Created by IntelliJ IDEA.
-  User: alekjin
-  Date: 9/25/13
-  Time: 4:45 오후
-  To change this template use File | Settings | File Templates.
---%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-	<title></title>
+	<title>NEcasa</title>
 </head>
+
 <body>
+	<a href="/board/upload">사진을 업로드 합니다.</a> <br />
+	<a href="/board/view">사진을 봅니다.</a>
 
 </body>
 </html>
