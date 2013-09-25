@@ -5,8 +5,8 @@
 </head>
 
 <body>
-	<a href="/board/upload">사진을 업로드 합니다.</a> <br />
-	<a href="/board/view">사진을 봅니다.</a>
+	<a href="/board/upload.opo">사진을 업로드 합니다.</a> <br />
+	<a href="/board/view.opo">사진을 봅니다.</a>
 
 </body>
 </html>

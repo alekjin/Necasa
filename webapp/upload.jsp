@@ -5,7 +5,7 @@
 </head>
 
 <body>
-	<form name="uploadphoto" action="/board/upload_complete" method="POST" style="text-align: center;">
+	<form name="uploadphoto" action="/board/upload_complete.opo" method="POST" style="text-align: center;">
 		<label style="font-size: 40px; color: dodgerblue"><strong>업로드할 사진을 고르세요</strong></label> <br />
 		<%--<canvas name="photo" width="400px" height="400px"></canvas> <br />--%>
 		<input name="photo" type="file"> <br />

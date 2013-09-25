@@ -4,6 +4,16 @@
 	<title>View</title>
 </head>
 <body>
-done~!
+
+<%
+	String photo = request.getParameter("photo");
+	String photoname = request.getParameter("photoname");
+	String photocomment = request.getParameter("photocomment");
+%>
+
+Photo : <%=photo%> <br />
+PhotoName : <%=photoname%> <br />
+PhotoComment : <%=photocomment%> <br />
+
 </body>
 </html>
