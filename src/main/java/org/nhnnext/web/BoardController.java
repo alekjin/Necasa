@@ -5,19 +5,20 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 
 @Controller
+@RequestMapping(value="/board")
 public class BoardController {
 
-	@RequestMapping(value="/board/view.opo")
+	@RequestMapping(value="/view.opo")
 	public String board() {
 		return "view";
 	}
 
-	@RequestMapping(value="/board/upload.opo")
+	@RequestMapping(value="/upload.opo")
 	public String uploadForm() {
 		return "upload";
 	}
 
-	@RequestMapping(value="/board/upload_complete.opo", method=RequestMethod.POST)
+	@RequestMapping(value="/upload_complete.opo", method=RequestMethod.POST)
 	public String uploadComplete(String photo, String photoname, String photocomment) {
 		System.out.println( "Photo : " + photo +
 							"Photoname : " + photoname +
