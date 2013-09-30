@@ -2,10 +2,10 @@
   <artifact type="exploded-war" name="next-board:war exploded">
     <output-path>$PROJECT_DIR$/target/next-board-1.0.0</output-path>
     <root id="root">
-      <element id="javaee-facet-resources" facet="next-board/web/Web" />
+      <element id="javaee-facet-resources" facet="necasa/web/Web" />
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
-          <element id="module-output" name="next-board" />
+          <element id="module-output" name="necasa" />
         </element>
         <element id="directory" name="lib">
           <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.2" />
