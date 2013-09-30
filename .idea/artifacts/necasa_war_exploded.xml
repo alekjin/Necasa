@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
-  <artifact type="exploded-war" name="next-board:war exploded">
-    <output-path>$PROJECT_DIR$/target/next-board-1.0.0</output-path>
+  <artifact type="exploded-war" name="Necasa:war exploded">
+    <output-path>$PROJECT_DIR$/target/Necasa-3.4.5</output-path>
     <root id="root">
       <element id="javaee-facet-resources" facet="Necasa/web/Web" />
       <element id="directory" name="WEB-INF">

@@ -22,10 +22,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
+        <module name="necasa" />
+        <module name="Necasa" />
         <module name="next-board" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.7">
+      <module name="necasa" target="1.6" />
+      <module name="Necasa" target="1.6" />
       <module name="next-board" target="1.6" />
     </bytecodeTargetLevel>
   </component>
