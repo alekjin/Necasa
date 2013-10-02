@@ -1,4 +1,10 @@
-#sd {
+#header {
+	text-align: center;
+	font-size: 40px;
+	font-family: '나눔고딕', NanumGothic;
+}
+
+#main {
 	text-align: center;
 	margin: 20px;
 	font-size: 20pt;
