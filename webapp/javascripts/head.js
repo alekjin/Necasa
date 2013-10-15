@@ -3,3 +3,4 @@ function print(str) {
 		alert("null");
 	alert(str);
 }
+

@@ -7,14 +7,13 @@
 
 <body>
 	<div id="upload_photo">
-		<form name="uploadphoto" action="/board/upload_complete.opo" method="POST">
+		<form name="uploadphoto" action="/board/uploading.opo" method="POST" enctype="multipart/form-data" accept="image/gif, image/jpeg, image/png">
 
 			<label id="choose_upload"><strong>업로드할 사진을 고르세요</strong></label> <br />
-
-			<input name="photo" type="file"> <br />
-			<input name="photoname" type="text" placeholder="이 사진의 이름을 지어주세요."> <br />
-
-			<textarea name="photocomment" rows="4" cols="40" placeholder="이 사진에 대한 코멘트를 입력하세요."></textarea> <br />
+			<input name="file" type="file"> <br />
+			<input name="title" type="text" placeholder="이 사진의 이름을 지어주세요."> <br />
+			<textarea name="contents" rows="4" cols="40" placeholder="이 사진에 대한 코멘트를 입력하세요."></textarea> <br />
+            <input name="tags" placeholder="이 사진의 태그를 정해주세요"> <br />
 
 			<button name="upload">업로드</button>
 

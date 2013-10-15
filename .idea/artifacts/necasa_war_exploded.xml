@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
   <artifact type="exploded-war" name="Necasa:war exploded">
-    <output-path>$PROJECT_DIR$/target/Necasa-3.4.5</output-path>
+    <output-path>$PROJECT_DIR$/target/Necasa-4.0.1</output-path>
     <root id="root">
       <element id="javaee-facet-resources" facet="Necasa/web/Web" />
       <element id="directory" name="WEB-INF">
@@ -49,7 +49,8 @@
           <element id="library" level="project" name="Maven: cglib:cglib:2.2" />
           <element id="library" level="project" name="Maven: asm:asm:3.1" />
           <element id="library" level="project" name="Maven: javassist:javassist:3.9.0.GA" />
-          <element id="library" level="project" name="Maven: org.apache.derby:derby:10.10.1.1" />
+          <element id="library" level="project" name="Maven: commons-io:commons-io:1.4" />
+          <element id="library" level="project" name="Maven: commons-fileupload:commons-fileupload:1.2.1" />
         </element>
       </element>
     </root>

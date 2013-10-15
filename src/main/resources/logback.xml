@@ -8,7 +8,7 @@
 	</appender>
 	
 	<!-- SLIPP Logger -->
-	<logger name="org.nhnnext" level="DEBUG" />
+	<logger name="org.Necasa" level="DEBUG" />
 
 	<!-- Library / Framework Logger -->
 	<logger name="org.hibernate" level="WARN" />
@@ -17,7 +17,7 @@
 	<logger name="org.hibernate.type.BasicTypeRegistry" level="WARN" />
 	<logger name="org.hibernate.descriptor.sql.BasicExtractor" level="WARN" />
 	<logger name="org.springframework" level="INFO" />
-	<logger name="org.springframework.web.bind.annotation.support.HandlerMethodInvoker" level="INFO" />
+	<logger name="org.springframework.web.bind.annotation.org.Necasa.Support.HandlerMethodInvoker" level="INFO" />
 	<logger name="org.springframework.web.servlet.DispatcherServlet" level="INFO" />
 	
 	<!-- ROOT Logger -->
