@@ -1,39 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="acca8906-6f86-4efd-bafe-5ffb25064c62" name="Default" comment="사진을 List로 preview사진과 함께 보여주기 까지 완료">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_1_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/alekjin.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/list.jsp" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_derby_derby_10_10_1_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/org/nhnnext/web/BoardController.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/org/nhnnext/web/HomeController.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webapp/uploadC.jsp" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/artifacts/necasa_war.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/Necasa_war.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/artifacts/necasa_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/Necasa_war_exploded.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/webapp/images/404.jpeg" afterPath="$PROJECT_DIR$/webapp/images/404.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/webapp/javascripts/helloworld.js" afterPath="$PROJECT_DIR$/webapp/javascripts/head.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Necasa.iml" afterPath="$PROJECT_DIR$/Necasa.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/application-properties.xml" afterPath="$PROJECT_DIR$/src/main/resources/application-properties.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/applicationContext-next.xml" afterPath="$PROJECT_DIR$/src/main/resources/applicationContext-next.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webapp/stylesheets/index.css" afterPath="$PROJECT_DIR$/webapp/stylesheets/index.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webapp/index.jsp" afterPath="$PROJECT_DIR$/webapp/index.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/infrastructure.xml" afterPath="$PROJECT_DIR$/src/main/resources/infrastructure.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/logback.xml" afterPath="$PROJECT_DIR$/src/main/resources/logback.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webapp/WEB-INF/next-servlet.xml" afterPath="$PROJECT_DIR$/webapp/WEB-INF/next-servlet.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/db/startdb.sh" afterPath="$PROJECT_DIR$/src/main/db/startdb.sh" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webapp/upload.jsp" afterPath="$PROJECT_DIR$/webapp/upload.jsp" />
+    <list default="true" id="acca8906-6f86-4efd-bafe-5ffb25064c62" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/org/Necasa/Web/BoardController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/org/Necasa/Support/FileUploader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/org/Necasa/Web/HomeController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/org/Necasa/Web/Photo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/org/Necasa/Background/PhotoRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/view.jsp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
-    <list id="850ff72e-f3e3-40fe-bbb7-ad4a77210fdb" name="Failed commit: Default" comment="사진을 List로 preview사진과 함께 보여주기 까지 완료">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webapp/view.jsp" afterPath="" />
-    </list>
+    <list id="850ff72e-f3e3-40fe-bbb7-ad4a77210fdb" name="Failed commit: Default" comment="사진을 List로 preview사진과 함께 보여주기 까지 완료" />
     <ignored path="next-board.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1381859356194" ignored="false" />
+    <file path="/Dummy.txt" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1381859430513" ignored="false" />
     <file path="/README.md" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1380095177923" ignored="false" />
     <file path="/index.jsp" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1381857485033" ignored="false" />
     <file path="/BoardController.java" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1381856068604" ignored="false" />
@@ -163,10 +143,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="list.jsp" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="list.jsp" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/webapp/list.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="98" selection-start="330" selection-end="330" vertical-scroll-proportion="0.28520498">
+            <state line="8" column="98" selection-start="330" selection-end="330" vertical-scroll-proportion="-5.5172415">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="view.jsp" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/webapp/view.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="7" selection-start="266" selection-end="266" vertical-scroll-proportion="0.38327527">
               <folding />
             </state>
           </provider>
@@ -269,9 +258,9 @@
         <option value="$PROJECT_DIR$/webapp/javascripts/head.js" />
         <option value="$PROJECT_DIR$/webapp/javascripts/PhotoPreview.js" />
         <option value="$PROJECT_DIR$/webapp/upload.jsp" />
-        <option value="$PROJECT_DIR$/webapp/view.jsp" />
         <option value="$PROJECT_DIR$/src/main/java/org/Necasa/Web/PhotoController.java" />
         <option value="$PROJECT_DIR$/webapp/list.jsp" />
+        <option value="$PROJECT_DIR$/webapp/view.jsp" />
       </list>
     </option>
   </component>
@@ -1023,12 +1012,16 @@
       <created>1380677287470</created>
       <updated>1380677287470</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="사진을 List로 preview사진과 함께 보여주기 까지 완료">
+      <created>1381859441453</created>
+      <updated>1381859441453</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1280" height="774" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905984" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -1050,7 +1043,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298217" sideWeight="0.646789" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905984" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24959481" sideWeight="0.6712538" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24959481" sideWeight="0.6712538" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.35321102" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1217,7 +1210,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/webapp/list.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="98" selection-start="330" selection-end="330" vertical-scroll-proportion="0.28520498">
+        <state line="8" column="98" selection-start="330" selection-end="330" vertical-scroll-proportion="-5.5172415">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapp/view.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="7" selection-start="266" selection-end="266" vertical-scroll-proportion="0.38327527">
           <folding />
         </state>
       </provider>
