@@ -15,6 +15,7 @@
 			<li>사진 꾸미기</li>
 		</ul>
 		<hr/>
+
 		<form name="loginform" action="/login.opo" method="POST">
 
 			<label id="login_label"><strong>로그인 하세요</strong></label> <br />
