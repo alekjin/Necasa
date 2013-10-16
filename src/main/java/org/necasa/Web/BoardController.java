@@ -35,7 +35,6 @@ public class BoardController {
 
 	@RequestMapping(value="board/uploading.opo", method=RequestMethod.POST)
 	public String create(Photo photo, MultipartFile file) {
-		System.out.println("=========>>" + "TYPE : " + file.getContentType());
 		String filename = FileUploader.upload(photoRepository.count() + 1, file);
 		photo.setFilename(filename);
 		Photo savedPhoto = photoRepository.save(photo);

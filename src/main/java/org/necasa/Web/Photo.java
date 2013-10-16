@@ -10,6 +10,7 @@ import javax.persistence.Id;
 public class Photo {
 	public Photo() {
 	}
+
 @Id
 @GeneratedValue(strategy = GenerationType.AUTO)
 private Long id;
