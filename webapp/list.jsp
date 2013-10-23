@@ -3,24 +3,8 @@
 <html>
 <head>
     <title>photo list</title>
-	<link rel="stylesheet" type="text/css" href="./stylesheets/list.css">
+	<link rel="stylesheet" type="text/css" href="/stylesheets/list.css">
 	<style>
-		.photowrap {
-			margin: 0 auto;
-			border: 2px solid red;
-			width: 800px;
-			text-align: center;
-		}
-
-		#commentswrap {
-			text-align: left;
-			color: blueviolet;
-			padding-left: 10px;
-		}
-
-		#bodywrap {
-			margin: 0 auto;
-		}
 	</style>
 	<script>
 		function moveToUpload() {
@@ -48,16 +32,18 @@
 	<div class="photowrap">
 	<a href="/board/view/${photo.id}.opo"> <img src="/images/${photo.filename}" width="400px" /><br /></a>
 	<br />
-	<p>Title : ${photo.title}</p>
+	<p><h1>${photo.title}</h1></p>
 	<br />
-	<p>Contents : ${photo.contents}</p>
-		<div id="commentswrap">
-		<p>Comments :</p>
+		<div class="contentswrap">
+		<p>${photo.contents}</p>
+		</div>
+		<br />
 			<c:forEach items="${photo.comments}" var="comment">
+			<div class="commentswrap">
 				${comment.userid} : ${comment.comment}
+			</div>
 				<hr/>
 			</c:forEach>
-		</div>
 	</div>
 	<br />
 	</c:forEach>

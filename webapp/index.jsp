@@ -35,10 +35,8 @@
 			<c:otherwise>
 				<form id="loginform" name="loginform" method="POST">
 
-					<label id="login_label"><strong>로그인 하세요</strong></label> <br />
-					<p>ID :				  
-					  <input name="userid" type="text" placeholder="ID" size="10px"></p>
-					<p>PASSWD :  <input name="passwd" type="password" placeholder="******" size="10px"></p>
+					<p><input name="userid" type="text" placeholder="아이디" size="10px"></p>
+					<p><input name="passwd" type="password" placeholder="패스워드" size="10px"></p>
 					<br />
 
 					<input type="submit" onclick = "submitLogin();" value="Login" name="login">

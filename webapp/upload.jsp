@@ -2,16 +2,8 @@
 <html>
 <head>
 	<title>업로드할 사진 고르기</title>
-	<link rel="stylesheet" type="text/css" href="./stylesheets/upload.css">
+	<link rel="stylesheet" type="text/css" href="/stylesheets/upload.css">
 	<style>
-		#upload_photo {
-			text-align: center;
-		}
-
-		#choose_upload {
-			text-align: center;
-			color: dodgerblue;
-		}
 	</style>
 </head>
 

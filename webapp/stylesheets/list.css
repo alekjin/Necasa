@@ -7,8 +7,30 @@ ul,ol{list-style:none}
 em,address{font-style:normal} a{text-decoration:none} a:hover,a:active,a:focus{text-decoration:underline}
 
 .photowrap {
-	font-size: 40px;
+	padding: 10px;
 	margin: 0 auto;
 	border: 2px solid red;
 	width: 800px;
+	text-align: center;
+}
+
+.contentswrap {
+	width: 400px;
+	border: 2px solid blue;
+	text-align: left;
+	text-indent: 10px;
+	padding-left: 5px;
+	margin: 0 auto;
+	font-family: "NanumGothic", "AppleGothic";
+}
+
+.commentswrap {
+	font-family: "Verdana", "Helvetica";
+	text-align: left;
+	color: blueviolet;
+	padding-left: 10px;
+}
+
+#bodywrap {
+	margin: 0 auto;
 }

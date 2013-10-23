@@ -3,7 +3,7 @@
 <html>
 <head>
 	<title>show</title>
-	<link rel="stylesheet" type="text/css" href="./stylesheets/view.css">
+	<link rel="stylesheet" type="text/css" href="/stylesheets/view.css">
 </head>
 <body>
 <p> 제목 : ${photo.title} </p>
