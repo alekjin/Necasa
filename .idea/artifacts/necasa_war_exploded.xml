@@ -51,6 +51,7 @@
           <element id="library" level="project" name="Maven: javassist:javassist:3.9.0.GA" />
           <element id="library" level="project" name="Maven: commons-io:commons-io:1.4" />
           <element id="library" level="project" name="Maven: commons-fileupload:commons-fileupload:1.2.1" />
+          <element id="library" level="project" name="Maven: mysql:mysql-connector-java:5.1.26" />
         </element>
       </element>
     </root>
