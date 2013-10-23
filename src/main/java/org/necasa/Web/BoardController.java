@@ -1,7 +1,9 @@
 package org.Necasa.Web;
 
+import org.Necasa.Background.CommentRepository;
 import org.Necasa.Background.PhotoRepository;
 import org.Necasa.Support.FileUploader;
+import org.Necasa.Web.Photo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
@@ -14,6 +16,7 @@ import org.springframework.web.multipart.MultipartFile;
 public class BoardController {
 	@Autowired
 	private PhotoRepository photoRepository;
+	private CommentRepository commentRepository;
 
 	@RequestMapping(value="board/upload.opo")
 	public String uploadForm() {

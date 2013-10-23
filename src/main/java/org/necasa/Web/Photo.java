@@ -1,10 +1,7 @@
 package org.Necasa.Web;
 
-import javax.persistence.Column;
-import javax.persistence.Entity;
-import javax.persistence.GenerationType;
-import javax.persistence.GeneratedValue;
-import javax.persistence.Id;
+import javax.persistence.*;
+import java.util.List;
 
 @Entity
 public class Photo {
@@ -25,8 +22,14 @@ private Long id;
 	private String contents;
 	@Column(length = 50, nullable = false)
 	private String filename;
-	@Column(length = 50, nullable = true)
-	private String tags;
+
+
+	@OneToMany(mappedBy = "photo", fetch = FetchType.EAGER)
+	private List<Comment> comments;
+
+	public List<Comment> getComments() {
+		return comments;
+	}
 
 	public String getFilename() {
 		return filename;
@@ -50,14 +53,6 @@ private Long id;
 
 	public void setTitle(String title) {
 		this.title = title;
-	}
-
-	public String getTags() {
-		return tags;
-	}
-
-	public void setTags(String tags) {
-		this.tags = tags;
 	}
 
 	@Override

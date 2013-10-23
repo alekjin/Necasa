@@ -6,31 +6,9 @@ img,fieldset{border:0}
 ul,ol{list-style:none}
 em,address{font-style:normal} a{text-decoration:none} a:hover,a:active,a:focus{text-decoration:underline}
 
-#title {
-	text-align: center;
+.photowrap {
 	font-size: 40px;
-	font-family: '나눔고딕', NanumGothic;
-}
-
-#main {
-	border: red;
-	text-align: center;
-	margin: 20px;
-	font-size: 20pt;
-	font-color: violet;
-	font-family: Verdana;
-}
-
-
-#bodyWrap {
-	margin-top: 10px;
 	margin: 0 auto;
+	border: 2px solid red;
 	width: 800px;
-	border: 1px solid red;
-	text-align: center;
-}
-
-#loginform {
-	text-align: left;
-	margin-left: 12px;
 }

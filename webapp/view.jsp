@@ -3,18 +3,18 @@
 <html>
 <head>
 	<title>show</title>
+	<link rel="stylesheet" type="text/css" href="./stylesheets/view.css">
 </head>
 <body>
 <p> 제목 : ${photo.title} </p>
 <p> 내용 : ${photo.contents} </p>
 <p> 사진 이름 : ${photo.filename} </p>
-<p> 태그 : ${photo.tags} </p>
 <p><a href="/board/view/main.opo"> 목록으로 돌아가기 <- </a></p>
 <img src="/images/${photo.filename}" />
 <c:choose>
 	<c:when test="${not empty sessionScope.userId}">
 		<div id="comment_write">
-			<form id="commentWrite" action="/comment_write" method="post">
+			<form id="commentWrite" action="/board/view/${photo.id}/comment" method="post">
 			<p>Comment : </p>
 			<p><textarea name="comment"></textarea></p>
 			<p><input type="submit"> </p>
@@ -27,7 +27,7 @@
 
 
 <div id="comment_view">
-	<c:forEach items="${comments}" var="comment">
+	<c:forEach items="${photo.comments}" var="comment">
 	${comment.userid} : ${comment.comment}
 	<hr/>
 	</c:forEach>

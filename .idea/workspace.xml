@@ -2,27 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="acca8906-6f86-4efd-bafe-5ffb25064c62" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/org/Necasa/Background/CommentRepository.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/logout.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/org/Necasa/Background/AccountRepository.java" afterPath="$PROJECT_DIR$/src/main/java/org/Necasa/Background/AccountRepository.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Necasa.iml" afterPath="$PROJECT_DIR$/Necasa.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/org/Necasa/Web/Comment.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/org/Necasa/Web/CommentController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/org/Necasa/Web/SigninController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/stylesheets/list.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/stylesheets/view.css" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapp/images/404.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapp/login.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapp/stylesheets/uploadC.css" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/org/Necasa/Web/Account.java" afterPath="$PROJECT_DIR$/src/main/java/org/Necasa/Web/Account.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/org/Necasa/Web/BoardController.java" afterPath="$PROJECT_DIR$/src/main/java/org/Necasa/Web/BoardController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/org/Necasa/Web/LoginController.java" afterPath="$PROJECT_DIR$/src/main/java/org/Necasa/Web/LoginController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/org/Necasa/Web/Photo.java" afterPath="$PROJECT_DIR$/src/main/java/org/Necasa/Web/Photo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webapp/stylesheets/index.css" afterPath="$PROJECT_DIR$/webapp/stylesheets/index.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webapp/index.jsp" afterPath="$PROJECT_DIR$/webapp/index.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webapp/login.jsp" afterPath="$PROJECT_DIR$/webapp/login.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webapp/list.jsp" afterPath="$PROJECT_DIR$/webapp/list.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webapp/signin.jsp" afterPath="$PROJECT_DIR$/webapp/signin.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webapp/stylesheets/upload.css" afterPath="$PROJECT_DIR$/webapp/stylesheets/upload.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webapp/upload.jsp" afterPath="$PROJECT_DIR$/webapp/upload.jsp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webapp/view.jsp" afterPath="$PROJECT_DIR$/webapp/view.jsp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="850ff72e-f3e3-40fe-bbb7-ad4a77210fdb" name="Failed commit: Default" comment="사진을 List로 preview사진과 함께 보여주기 까지 완료" />
     <ignored path="next-board.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1382198428977" ignored="false" />
+    <file path="/Dummy.txt" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1382511582438" ignored="false" />
     <file path="/README.md" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1380095177923" ignored="false" />
-    <file path="/index.jsp" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1382031955495" ignored="false" />
-    <file path="/BoardController.java" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1382204575612" ignored="false" />
-    <file path="/upload.jsp" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1381860444189" ignored="false" />
-    <file path="/view.jsp" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1382204718196" ignored="false" />
+    <file path="/index.jsp" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1382509200267" ignored="false" />
+    <file path="/BoardController.java" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1382208256083" ignored="false" />
+    <file path="/upload.jsp" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1382509917013" ignored="false" />
+    <file path="/view.jsp" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1382506126611" ignored="false" />
     <file path="/uploadComplete.jsp" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1380098881031" ignored="false" />
     <file path="/uploadC.jsp" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1380533354640" ignored="false" />
-    <file path="/index.css" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1382032109549" ignored="false" />
+    <file path="/index.css" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1382509295992" ignored="false" />
     <file path="/a.java" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1380528141513" ignored="false" />
     <file path="/a.as" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1380528145372" ignored="false" />
     <file path="/a.coffee" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1380528148053" ignored="false" />
@@ -70,7 +82,7 @@
     <file path="/BoardRepository.java" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1380682671046" ignored="false" />
     <file path="$PROJECT_DIR$/../next-board_javajigi/webapp/show.jsp" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1380697184965" ignored="false" />
     <file path="/show.jsp" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1380697185302" ignored="false" />
-    <file path="/persistence.xml" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1381911599061" ignored="false" />
+    <file path="/persistence.xml" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1382508918460" ignored="false" />
     <file path="$PROJECT_DIR$/../next-board_javajigi/webapp/form.jsp" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1381860637991" ignored="false" />
     <file path="/form.jsp" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1380695288437" ignored="false" />
     <file path="/Photo.java" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1382203311207" ignored="false" />
@@ -81,7 +93,7 @@
     <file path="/logback.xml" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1380868202378" ignored="false" />
     <file path="/a.dummy" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1381856508144" ignored="false" />
     <file path="/infrastructure.xml" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1380868463308" ignored="false" />
-    <file path="/list.jsp" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1381860341096" ignored="false" />
+    <file path="/list.jsp" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1382511574050" ignored="false" />
     <file path="/PhotoController.java" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1381859024623" ignored="false" />
     <file path="/a.jsp" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1381886512375" ignored="false" />
     <file path="/LoginController.java" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1382032751674" ignored="false" />
@@ -92,13 +104,14 @@
     <file path="/login.jsp" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1381917451874" ignored="false" />
     <file path="/LoginRepository.java" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1381908283800" ignored="false" />
     <file path="/signingOK.jsp" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1381908747199" ignored="false" />
-    <file path="/signin.jsp" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1381910084336" ignored="false" />
-    <file path="/SigninController.java" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1381910640092" ignored="false" />
+    <file path="/signin.jsp" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1382507674745" ignored="false" />
+    <file path="/SigninController.java" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1382508058149" ignored="false" />
     <file path="/AccountRepository.java" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1381914521183" ignored="false" />
     <file path="/logout.jsp" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1382033280675" ignored="false" />
     <file path="/CommentRepository.java" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1382199745838" ignored="false" />
-    <file path="/Comment.java" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1382205385729" ignored="false" />
-    <file path="/CommentController.java" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1382204869382" ignored="false" />
+    <file path="/Comment.java" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1382208844056" ignored="false" />
+    <file path="/CommentController.java" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1382208988416" ignored="false" />
+    <file path="/list.css" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1382510949777" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +126,6 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -150,6 +162,7 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -162,29 +175,43 @@
       <file leaf-file-name="Photo.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/org/Necasa/Web/Photo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="10" selection-start="501" selection-end="501" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state line="6" column="13" selection-start="98" selection-end="98" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LoginController.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/org/Necasa/Web/LoginController.java">
+      <file leaf-file-name="view.jsp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webapp/view.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="30" selection-start="610" selection-end="610" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state line="28" column="23" selection-start="816" selection-end="816" vertical-scroll-proportion="-19.310345">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HomeController.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/org/Necasa/Web/HomeController.java">
+      <file leaf-file-name="BoardController.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/Necasa/Web/BoardController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="13" selection-start="164" selection-end="164" vertical-scroll-proportion="0.0">
+            <state line="20" column="27" selection-start="749" selection-end="765" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="signin.jsp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webapp/signin.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="32" selection-start="151" selection-end="151" vertical-scroll-proportion="-2.5172415">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="upload.jsp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webapp/upload.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="30" column="15" selection-start="331" selection-end="919" vertical-scroll-proportion="-8.655172">
               <folding />
             </state>
           </provider>
@@ -199,57 +226,37 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SigninController.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/org/Necasa/Web/SigninController.java">
+      <file leaf-file-name="list.jsp" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/webapp/list.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="74" selection-start="836" selection-end="836" vertical-scroll-proportion="0.0">
+            <state line="17" column="30" selection-start="442" selection-end="442" vertical-scroll-proportion="0.36253777">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Comment.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/org/Necasa/Web/Comment.java">
+      <file leaf-file-name="upload.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webapp/stylesheets/upload.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="41" selection-start="199" selection-end="199" vertical-scroll-proportion="0.0">
+            <state line="9" column="0" selection-start="436" selection-end="535" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="list.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webapp/stylesheets/list.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="10" selection-start="445" selection-end="445" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="index.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/webapp/index.css">
+        <entry file="file://$PROJECT_DIR$/webapp/stylesheets/index.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="26" selection-start="324" selection-end="324" vertical-scroll-proportion="-3.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CommentController.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/org/Necasa/Web/CommentController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="22" selection-start="648" selection-end="648" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Account.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/org/Necasa/Web/Account.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="12" selection-start="208" selection-end="208" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BoardController.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/org/Necasa/Web/BoardController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="68" selection-start="0" selection-end="1677" vertical-scroll-proportion="0.81769437">
+            <state line="29" column="14" selection-start="738" selection-end="743" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -273,22 +280,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/org/Necasa/Web/SigninController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/org/Necasa/Background/AccountRepository.java" />
-        <option value="$PROJECT_DIR$/webapp/login.jsp" />
-        <option value="$PROJECT_DIR$/webapp/index.css" />
-        <option value="$PROJECT_DIR$/webapp/index.jsp" />
-        <option value="$PROJECT_DIR$/webapp/logout.jsp" />
-        <option value="$PROJECT_DIR$/src/main/java/org/Necasa/Background/CommentRepository.java" />
-        <option value="$PROJECT_DIR$/src/main/java/org/Necasa/Controller/SigninController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/org/Necasa/Controller/BoardController.java" />
-        <option value="$PROJECT_DIR$/webapp/view.jsp" />
-        <option value="$PROJECT_DIR$/src/main/java/org/Necasa/Controller/CommentController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/org/Necasa/Web/Photo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/Necasa/Web/BoardController.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/Necasa/Web/Comment.java" />
-        <option value="$PROJECT_DIR$/src/main/java/org/Necasa/Controller/LoginController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/Necasa/Web/CommentController.java" />
+        <option value="$PROJECT_DIR$/webapp/stylesheets/uploadC.css" />
+        <option value="$PROJECT_DIR$/webapp/stylesheets/upload.css" />
+        <option value="$PROJECT_DIR$/webapp/stylesheets/view.css" />
+        <option value="$PROJECT_DIR$/src/main/java/org/Necasa/Web/SigninController.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/Necasa/Web/LoginController.java" />
+        <option value="$PROJECT_DIR$/webapp/signin.jsp" />
+        <option value="$PROJECT_DIR$/webapp/view.jsp" />
+        <option value="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" />
+        <option value="$PROJECT_DIR$/webapp/index.jsp" />
+        <option value="$PROJECT_DIR$/webapp/stylesheets/index.css" />
+        <option value="$PROJECT_DIR$/webapp/upload.jsp" />
+        <option value="$PROJECT_DIR$/webapp/stylesheets/list.css" />
+        <option value="$PROJECT_DIR$/webapp/list.jsp" />
       </list>
     </option>
   </component>
@@ -441,7 +448,7 @@
         </expanded-state>
         <selected-state>
           <State>
-            <id>JpaAttributeMemberSignatureInspection</id>
+            <id>JpaAttributeTypeInspection</id>
           </State>
         </selected-state>
       </profile-state>
@@ -475,6 +482,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -523,6 +531,42 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="WEB-INF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Necasa" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Necasa" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stylesheets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Necasa" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Necasa" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -673,32 +717,6 @@
               <option name="myItemId" value="Necasa" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Necasa" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Necasa" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Necasa" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Background" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
@@ -728,7 +746,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -895,7 +912,6 @@
     </configuration>
     <configuration default="false" name="Tomcat 7.0" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0">
       <option name="SHOW_DIALOG_ON_UPDATE" value="false" />
-      <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
         <artifact name="Necasa:war exploded">
           <settings>
@@ -1050,7 +1066,11 @@
       <created>1381914674382</created>
       <updated>1381914674382</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Comment #1&#10;기본적인것 추가 &lt;버그 수정 필요함&gt;">
+      <created>1382205522800</created>
+      <updated>1382205522800</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1063,7 +1083,7 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39908257" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -1129,7 +1149,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="!!!!" />
+    <option name="LAST_COMMIT_MESSAGE" value="css" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -1154,6 +1174,8 @@
     <MESSAGE value="view.jsp 되살리기" />
     <MESSAGE value="암호화 알고리즘" />
     <MESSAGE value="!!!!" />
+    <MESSAGE value="Comment #1&#10;기본적인것 추가 &lt;버그 수정 필요함&gt;" />
+    <MESSAGE value="css" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1163,53 +1185,51 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/Necasa/Background/AccountRepository.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/Necasa/Web/SigninController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="17" selection-start="140" selection-end="140" vertical-scroll-proportion="0.0">
+        <state line="22" column="19" selection-start="698" selection-end="698" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/Necasa/Web/Encryption.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/Necasa/Web/LoginController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="13" selection-start="122" selection-end="122" vertical-scroll-proportion="0.0">
+        <state line="26" column="26" selection-start="1071" selection-end="1071" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/webapp/list.jsp">
+    <entry file="file://$PROJECT_DIR$/webapp/signingOK.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="68" selection-start="65" selection-end="130" vertical-scroll-proportion="-0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapp/WEB-INF/next-servlet.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="65" selection-start="593" selection-end="593" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/webapp/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="29" selection-start="421" selection-end="961" vertical-scroll-proportion="-13.793103">
+        <state line="6" column="72" selection-start="230" selection-end="253" vertical-scroll-proportion="-4.137931">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/webapp/view.jsp">
+    <entry file="file://$PROJECT_DIR$/webapp/stylesheets/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="60" selection-start="541" selection-end="541" vertical-scroll-proportion="-11.034483">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/Necasa/Background/CommentRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="61" selection-start="184" selection-end="184" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/Necasa/Web/SigninController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="74" selection-start="836" selection-end="836" vertical-scroll-proportion="0.0">
+        <state line="29" column="14" selection-start="738" selection-end="743" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -1221,64 +1241,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/Necasa/Web/HomeController.java">
+    <entry file="file://$PROJECT_DIR$/webapp/stylesheets/upload.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="13" selection-start="164" selection-end="164" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/Necasa/Web/CommentController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="22" selection-start="648" selection-end="648" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webapp/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="26" selection-start="324" selection-end="324" vertical-scroll-proportion="-3.0">
+        <state line="9" column="0" selection-start="436" selection-end="535" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/Necasa/Web/Photo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="10" selection-start="501" selection-end="501" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/Necasa/Web/Account.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="12" selection-start="208" selection-end="208" vertical-scroll-proportion="0.0">
+        <state line="6" column="13" selection-start="98" selection-end="98" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/Necasa/Web/Comment.java">
+    <entry file="file://$PROJECT_DIR$/webapp/signin.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="41" selection-start="199" selection-end="199" vertical-scroll-proportion="0.0">
+        <state line="6" column="32" selection-start="151" selection-end="151" vertical-scroll-proportion="-2.5172415">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/Necasa/Web/LoginController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="30" selection-start="610" selection-end="610" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/Necasa/Web/BoardController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="68" selection-start="0" selection-end="1677" vertical-scroll-proportion="0.81769437">
+        <state line="20" column="27" selection-start="749" selection-end="765" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapp/stylesheets/list.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="10" selection-start="445" selection-end="445" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapp/upload.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="15" selection-start="331" selection-end="919" vertical-scroll-proportion="-8.655172">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapp/view.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="23" selection-start="816" selection-end="816" vertical-scroll-proportion="-19.310345">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapp/list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="30" selection-start="442" selection-end="442" vertical-scroll-proportion="0.36253777">
           <folding />
         </state>
       </provider>
