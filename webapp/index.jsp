@@ -17,6 +17,11 @@
 			form.action = "/signin.opo";
 			form.submit();
 		}
+
+		function initPage() {
+			console.log('Loading Complete');
+		}
+		window.onload = initPage;
 	</script>
 </head>
 
@@ -30,7 +35,7 @@
 		<c:choose>
 			<c:when test="${not empty sessionScope.userId}">
 				Hello ${sessionScope.userId}! Welcome to Necasa
-				<a href="/logout.opo"><button>logout</button></a>
+				<a href="/logout"><button>logout</button></a>
 			</c:when>
 			<c:otherwise>
 				<form id="loginform" name="loginform" method="POST">
@@ -49,8 +54,8 @@
 		<br />
 	<table id="formtable" style:width="630" >
 		<tr>
-		<th width="300" scope="col"><a href="/board/upload.opo">사진 올리고 공유하기</a></th>
-		<th width="300" scope="col"><a href="/board/view/main.opo">올린 사진 감상하기</a></th>
+		<th width="300" scope="col"><a href="/board/upload">사진 올리고 공유하기</a></th>
+		<th width="300" scope="col"><a href="/board/view/main">올린 사진 감상하기</a></th>
 		<th width="300" scope="col">사진 꾸미기</th>
 		</tr>
 		</hr>

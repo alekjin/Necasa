@@ -1,10 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="acca8906-6f86-4efd-bafe-5ffb25064c62" name="Default" comment="">
+    <list default="true" id="acca8906-6f86-4efd-bafe-5ffb25064c62" name="Default" comment="css">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_13.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_13.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/javascripts/index_head.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webapp/javascripts/list.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/artifacts/necasa_war.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/artifacts/necasa_war_exploded.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/org/Necasa/Web/Comment.java" afterPath="$PROJECT_DIR$/src/main/java/org/Necasa/Web/Comment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/org/Necasa/Support/FileUploader.java" afterPath="$PROJECT_DIR$/src/main/java/org/Necasa/Support/FileUploader.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/org/Necasa/Web/HomeController.java" afterPath="$PROJECT_DIR$/src/main/java/org/Necasa/Web/HomeController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/org/Necasa/Web/LoginController.java" afterPath="$PROJECT_DIR$/src/main/java/org/Necasa/Web/LoginController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Necasa.iml" afterPath="$PROJECT_DIR$/Necasa.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/org/Necasa/Web/Photo.java" afterPath="$PROJECT_DIR$/src/main/java/org/Necasa/Web/Photo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/org/Necasa/Web/SigninController.java" afterPath="$PROJECT_DIR$/src/main/java/org/Necasa/Web/SigninController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/application-properties.xml" afterPath="$PROJECT_DIR$/src/main/resources/application-properties.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webapp/javascripts/head.js" afterPath="$PROJECT_DIR$/webapp/javascripts/head.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webapp/index.jsp" afterPath="$PROJECT_DIR$/webapp/index.jsp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webapp/stylesheets/list.css" afterPath="$PROJECT_DIR$/webapp/stylesheets/list.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webapp/list.jsp" afterPath="$PROJECT_DIR$/webapp/list.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webapp/WEB-INF/next-servlet.xml" afterPath="$PROJECT_DIR$/webapp/WEB-INF/next-servlet.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webapp/signin.jsp" afterPath="$PROJECT_DIR$/webapp/signin.jsp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webapp/upload.jsp" afterPath="$PROJECT_DIR$/webapp/upload.jsp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webapp/view.jsp" afterPath="$PROJECT_DIR$/webapp/view.jsp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
@@ -12,38 +31,38 @@
     <list id="850ff72e-f3e3-40fe-bbb7-ad4a77210fdb" name="Failed commit: Default" comment="사진을 List로 preview사진과 함께 보여주기 까지 완료" />
     <ignored path="next-board.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1382511582438" ignored="false" />
+    <file path="/Dummy.txt" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1384856690837" ignored="false" />
     <file path="/README.md" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1380095177923" ignored="false" />
-    <file path="/index.jsp" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1382512707844" ignored="false" />
-    <file path="/BoardController.java" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1382208256083" ignored="false" />
+    <file path="/index.jsp" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1383096562067" ignored="false" />
+    <file path="/BoardController.java" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1384854155977" ignored="false" />
     <file path="/upload.jsp" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1382509917013" ignored="false" />
-    <file path="/view.jsp" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1382506126611" ignored="false" />
+    <file path="/view.jsp" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1383702043406" ignored="false" />
     <file path="/uploadComplete.jsp" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1380098881031" ignored="false" />
     <file path="/uploadC.jsp" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1380533354640" ignored="false" />
     <file path="/index.css" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1382509295992" ignored="false" />
-    <file path="/a.java" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1380528141513" ignored="false" />
-    <file path="/a.as" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1380528145372" ignored="false" />
-    <file path="/a.coffee" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1380528148053" ignored="false" />
-    <file path="/a.css" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1380528149662" ignored="false" />
+    <file path="/a.java" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1382559697224" ignored="false" />
+    <file path="/a.as" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1382559699226" ignored="false" />
+    <file path="/a.coffee" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1382559701056" ignored="false" />
+    <file path="/a.css" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1382559702459" ignored="false" />
     <file path="/a.feature" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1380528151538" ignored="false" />
     <file path="/a.gsp" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1380528154440" ignored="false" />
     <file path="/a.groovy" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1380528156786" ignored="false" />
-    <file path="/a.html" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1381857785308" ignored="false" />
-    <file path="/a.jspx" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1380528163716" ignored="false" />
-    <file path="/a.js" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1381857779962" ignored="false" />
+    <file path="/a.html" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1382559706248" ignored="false" />
+    <file path="/a.jspx" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1382559715458" ignored="false" />
+    <file path="/a.js" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1382559707765" ignored="false" />
     <file path="/a.less" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1380528167174" ignored="false" />
     <file path="/a.scss" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1380528168906" ignored="false" />
     <file path="/a.sass" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1380528170949" ignored="false" />
-    <file path="/a.sql" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1380528173541" ignored="false" />
-    <file path="/a.xml" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1380528177676" ignored="false" />
-    <file path="/pom.xml" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1381126002579" ignored="false" />
+    <file path="/a.sql" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1382559720248" ignored="false" />
+    <file path="/a.xml" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1382559724852" ignored="false" />
+    <file path="/pom.xml" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1383702598854" ignored="false" />
     <file path="/HomeController.java" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1380699310554" ignored="false" />
     <file path="/.name" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1380529150744" ignored="false" />
     <file path="$PROJECT_DIR$/.idea/artifacts/necasa_war.xml" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1380546624837" ignored="false" />
     <file path="/upload.css" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1380531261809" ignored="false" />
     <file path="/helloworld.js" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1380532962776" ignored="false" />
     <file path="/uploadC.css" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1380533296805" ignored="false" />
-    <file path="/fragment.java" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1380700995404" ignored="false" />
+    <file path="/fragment.java" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1383362334363" ignored="false" />
     <file path="$APPLICATION_HOME_DIR$/plugins/jsp/lib/jsp-impl.jar!/standardSchemas/jspxml2_1.xsd" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1380677379816" ignored="false" />
     <file path="$APPLICATION_HOME_DIR$/plugins/jsp/lib/jsp-impl.jar!/standardSchemas/jspdirectives2_1.xsd" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1380677379816" ignored="false" />
     <file path="$APPLICATION_HOME_DIR$/plugins/jsp/lib/jsp-impl.jar!/standardSchemas/jspxml2.xsd" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1380677379816" ignored="false" />
@@ -58,12 +77,12 @@
     <file path="$PROJECT_DIR$/../next-board_javajigi/.idea/misc.xml" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1380681963386" ignored="false" />
     <file path="$PROJECT_DIR$/../next-board_javajigi/.idea/workspace.xml" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1380868013867" ignored="false" />
     <file path="$PROJECT_DIR$/../next-board_javajigi/src/main/java/org/nhnnext/web/Board.java" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1380700299380" ignored="false" />
-    <file path="/Board.java" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1380699905374" ignored="false" />
+    <file path="/Board.java" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1383364188256" ignored="false" />
     <file path="$PROJECT_DIR$/../next-board_javajigi/src/main/java/org/nhnnext/support/FileUploader.java" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1381860637991" ignored="false" />
     <file path="/FileUploader.java" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1381856435544" ignored="false" />
     <file path="$PROJECT_DIR$/../next-board_javajigi/src/main/java/org/nhnnext/web/BoardController.java" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1381860637991" ignored="false" />
     <file path="$PROJECT_DIR$/../next-board_javajigi/next-board.iml" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1380694071709" ignored="false" />
-    <file path="/application-properties.xml" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1380699525433" ignored="false" />
+    <file path="/application-properties.xml" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1383096515201" ignored="false" />
     <file path="$PROJECT_DIR$/../next-board_javajigi/src/main/java/org/nhnnext/repository/BoardRepository.java" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1380682686121" ignored="false" />
     <file path="/BoardRepository.java" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1380682671046" ignored="false" />
     <file path="$PROJECT_DIR$/../next-board_javajigi/webapp/show.jsp" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1380697184965" ignored="false" />
@@ -71,17 +90,17 @@
     <file path="/persistence.xml" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1382508918460" ignored="false" />
     <file path="$PROJECT_DIR$/../next-board_javajigi/webapp/form.jsp" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1381860637991" ignored="false" />
     <file path="/form.jsp" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1380695288437" ignored="false" />
-    <file path="/Photo.java" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1382203311207" ignored="false" />
+    <file path="/Photo.java" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1383708364989" ignored="false" />
     <file path="/View.jsp" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1381847079923" ignored="false" />
     <file path="/applicationContext-next.xml" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1380867698161" ignored="false" />
-    <file path="/next-servlet.xml" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1380867436939" ignored="false" />
+    <file path="/next-servlet.xml" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1383708949253" ignored="false" />
     <file path="/PhotoRepository.java" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1380868002850" ignored="false" />
     <file path="/logback.xml" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1380868202378" ignored="false" />
     <file path="/a.dummy" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1381856508144" ignored="false" />
     <file path="/infrastructure.xml" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1380868463308" ignored="false" />
-    <file path="/list.jsp" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1382512061320" ignored="false" />
+    <file path="/list.jsp" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1384856626953" ignored="false" />
     <file path="/PhotoController.java" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1381859024623" ignored="false" />
-    <file path="/a.jsp" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1381886512375" ignored="false" />
+    <file path="/a.jsp" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1382559712231" ignored="false" />
     <file path="/LoginController.java" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1382032751674" ignored="false" />
     <file path="/Unnamed.txt.ft" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1381886606100" ignored="false" />
     <file path="/Login.java" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1381886795049" ignored="false" />
@@ -95,9 +114,40 @@
     <file path="/AccountRepository.java" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1381914521183" ignored="false" />
     <file path="/logout.jsp" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1382033280675" ignored="false" />
     <file path="/CommentRepository.java" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1382199745838" ignored="false" />
-    <file path="/Comment.java" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1382208844056" ignored="false" />
-    <file path="/CommentController.java" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1382208988416" ignored="false" />
-    <file path="/list.css" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1382510949777" ignored="false" />
+    <file path="/Comment.java" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1383708486595" ignored="false" />
+    <file path="/CommentController.java" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1383709080089" ignored="false" />
+    <file path="/list.css" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1383114100274" ignored="false" />
+    <file path="/index_head.js" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1383096184893" ignored="false" />
+    <file path="/list.js" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1383103457747" ignored="false" />
+    <file path="/head.js" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1383104212507" ignored="false" />
+    <file path="$PROJECT_DIR$/../Mine_Sweeper_Alek/src/org/nhnnext/Hello.java" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1383300424755" ignored="false" />
+    <file path="$PROJECT_DIR$/../Mine_Sweeper_Alek/.idea/compiler.xml" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1383300952658" ignored="false" />
+    <file path="$PROJECT_DIR$/../Mine_Sweeper_Alek/.idea/misc.xml" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1383300951505" ignored="false" />
+    <file path="$PROJECT_DIR$/../Mine_Sweeper_Alek/.idea/workspace.xml" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1383300973253" ignored="false" />
+    <file path="$PROJECT_DIR$/../Mine_Sweeper_Alek/.idea/modules.xml" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1383300933943" ignored="false" />
+    <file path="$PROJECT_DIR$/../Mine_Sweeper_Alek/pom.xml" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1383362055666" ignored="false" />
+    <file path="$PROJECT_DIR$/../Mine_Sweeper_Alek/src/main/java/Mine.java" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1383360167501" ignored="false" />
+    <file path="$PROJECT_DIR$/../Mine_Sweeper_Alek/src/main/java/Board.java" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1383364192933" ignored="false" />
+    <file path="$PROJECT_DIR$/../Mine_Sweeper_Alek/src/main/java/BoardController.java" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1383364155011" ignored="false" />
+    <file path="$PROJECT_DIR$/../Mine_Sweeper_Alek/src/main/java/Block.java" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1383361060214" ignored="false" />
+    <file path="/Block.java" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1383361017523" ignored="false" />
+    <file path="$PROJECT_DIR$/../Mine_Sweeper_Alek/src/test/java/BoardTest.java" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1383363338301" ignored="false" />
+    <file path="/Applications/apache-maven-3.1.1/conf/settings.xml" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1383361875624" ignored="false" />
+    <file path="/BoardTest.java" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1383363592771" ignored="false" />
+    <file path="$PROJECT_DIR$/../Mine_Sweeper_Alek/Mine_Sweeper_Alek.iml" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1383362056887" ignored="false" />
+    <file path="$PROJECT_DIR$/../Mine_Sweeper_Alek/src/main/java/GameMaster.java" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1383388711122" ignored="false" />
+    <file path="/GameMaster.java" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1384859766222" ignored="false" />
+    <file path="$PROJECT_DIR$/../Mine_Sweeper_Alek/src/main/java/main.java" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1383363201340" ignored="false" />
+    <file path="$PROJECT_DIR$/../Mine_Sweeper_Alek/src/main/java/Main.java" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1383363212208" ignored="false" />
+    <file path="$PROJECT_DIR$/../Mine_Sweeper_Alek/src/test/java/OneByOneBoardTest.java" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1383363808362" ignored="false" />
+    <file path="$PROJECT_DIR$/../minesweeper/src/test/java/PrintTest.java" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1383706308430" ignored="false" />
+    <file path="/PrintTest.java" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1383706306391" ignored="false" />
+    <file path="/Main.java" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1383706363290" ignored="false" />
+    <file path="$PROJECT_DIR$/../minesweeper/src/main/java/Minesweeper/Main.java" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1383706371959" ignored="false" />
+    <file path="$PROJECT_DIR$/../minesweeper/src/main/java/Minesweeper/GameMaster.java" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1383709776794" ignored="false" />
+    <file path="$PROJECT_DIR$/../minesweeper/src/main/java/Minesweeper/BoardConsolePrinter.java" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1383706778871" ignored="false" />
+    <file path="/BoardConsolePrinter.java" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1383706775460" ignored="false" />
+    <file path="$PROJECT_DIR$/../minesweeper/src/main/java/minesweeper/GameMaster.java" changelist="acca8906-6f86-4efd-bafe-5ffb25064c62" time="1384859782444" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,46 +208,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Photo.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/org/Necasa/Web/Photo.java">
+      <file leaf-file-name="list.jsp" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/webapp/list.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="13" selection-start="98" selection-end="98" vertical-scroll-proportion="0.0">
-              <folding />
+            <state line="78" column="63" selection-start="2499" selection-end="2499" vertical-scroll-proportion="5.0814333">
+              <folding>
+                <marker date="1384856674000" expanded="true" signature="3036:3050" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="view.jsp" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/webapp/view.jsp">
+      <file leaf-file-name="upload.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webapp/stylesheets/upload.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="49" selection-start="212" selection-end="212" vertical-scroll-proportion="0.24169184">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BoardController.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/org/Necasa/Web/BoardController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="27" selection-start="749" selection-end="765" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="signin.jsp" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/webapp/signin.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="32" selection-start="151" selection-end="151" vertical-scroll-proportion="-2.5172415">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="signingOK.jsp" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/webapp/signingOK.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -206,43 +231,70 @@
       <file leaf-file-name="upload.jsp" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/webapp/upload.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="49" selection-start="154" selection-end="154" vertical-scroll-proportion="-2.7586207">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.27586207">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="logout.jsp" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/webapp/logout.jsp">
+      <file leaf-file-name="BoardController.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/Necasa/Web/BoardController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+            <state line="52" column="59" selection-start="1891" selection-end="1891" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="list.jsp" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/webapp/list.jsp">
+      <file leaf-file-name="Encryption.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/Necasa/Web/Encryption.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="11" selection-start="253" selection-end="253" vertical-scroll-proportion="-4.137931">
+            <state line="5" column="13" selection-start="122" selection-end="122" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="list.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/webapp/stylesheets/list.css">
+      <file leaf-file-name="CommentRepository.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/Necasa/Background/CommentRepository.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="35" column="1" selection-start="870" selection-end="870" vertical-scroll-proportion="0.0">
+            <state line="7" column="6" selection-start="200" selection-end="200" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.jsp" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/webapp/index.jsp">
+      <file leaf-file-name="next-servlet.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webapp/WEB-INF/next-servlet.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="0" selection-start="999" selection-end="999" vertical-scroll-proportion="-24.827587">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Comment.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/Necasa/Web/Comment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="13" selection-start="125" selection-end="125" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CommentController.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/Necasa/Web/CommentController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="36" column="32" selection-start="1519" selection-end="1536" vertical-scroll-proportion="-4.509804">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HomeController.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/Necasa/Web/HomeController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="13" selection-start="164" selection-end="164" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -266,22 +318,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/org/Necasa/Web/BoardController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/org/Necasa/Web/Comment.java" />
-        <option value="$PROJECT_DIR$/src/main/java/org/Necasa/Web/CommentController.java" />
-        <option value="$PROJECT_DIR$/webapp/stylesheets/uploadC.css" />
-        <option value="$PROJECT_DIR$/webapp/stylesheets/upload.css" />
-        <option value="$PROJECT_DIR$/webapp/stylesheets/view.css" />
-        <option value="$PROJECT_DIR$/src/main/java/org/Necasa/Web/SigninController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/org/Necasa/Web/LoginController.java" />
-        <option value="$PROJECT_DIR$/webapp/signin.jsp" />
-        <option value="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" />
-        <option value="$PROJECT_DIR$/webapp/stylesheets/index.css" />
-        <option value="$PROJECT_DIR$/webapp/list.jsp" />
+        <option value="$PROJECT_DIR$/webapp/javascripts/head.js" />
         <option value="$PROJECT_DIR$/webapp/stylesheets/list.css" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/org/Necasa/Web/Photo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/Necasa/Web/Comment.java" />
+        <option value="$PROJECT_DIR$/webapp/WEB-INF/next-servlet.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/org/Necasa/Web/HomeController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/Necasa/Web/LoginController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/Necasa/Web/SigninController.java" />
         <option value="$PROJECT_DIR$/webapp/index.jsp" />
+        <option value="$PROJECT_DIR$/webapp/signin.jsp" />
         <option value="$PROJECT_DIR$/webapp/upload.jsp" />
         <option value="$PROJECT_DIR$/webapp/view.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/org/Necasa/Web/CommentController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/Necasa/Web/BoardController.java" />
+        <option value="$PROJECT_DIR$/webapp/list.jsp" />
       </list>
     </option>
   </component>
@@ -295,7 +347,7 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="/Applications/apache-maven-3.1.0" />
+        <option name="mavenHome" value="/Applications/apache-maven-3.1.1" />
       </MavenGeneralSettings>
     </option>
     <option name="importingSettings">
@@ -381,6 +433,9 @@
             <id />
           </State>
           <State>
+            <id>Android</id>
+          </State>
+          <State>
             <id>Android Lint</id>
           </State>
           <State>
@@ -409,9 +464,6 @@
           </State>
           <State>
             <id>Plugin DevKit</id>
-          </State>
-          <State>
-            <id>Scala: General</id>
           </State>
           <State>
             <id>Spring MVCSpring Model</id>
@@ -468,8 +520,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -535,6 +585,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="stylesheets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Necasa" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Necasa" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javascripts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -732,15 +800,20 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/resources" />
     <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="project.structure.proportion" value="0.0" />
     <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="options.lastSelected" value="fileTemplates" />
+    <property name="options.lastSelected" value="project.propCompiler" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="recentsLimit" value="5" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -748,9 +821,9 @@
     <property name="MemberChooser.showClasses" value="true" />
     <property name="FullScreen" value="false" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="dynamic.classpath" value="false" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="dynamic.classpath" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -801,6 +874,19 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -827,19 +913,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -996,7 +1069,9 @@
     <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
     <option name="FORCE_UPDATE" value="false" />
     <option name="IGNORE_EXTERNALS" value="false" />
+    <configuration useDefault="true">$USER_HOME$/.subversion</configuration>
     <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+    <supportedVersion>125</supportedVersion>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -1064,8 +1139,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1280" height="774" extended-state="0" />
-    <editor active="false" />
+    <frame x="0" y="22" width="1280" height="774" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905984" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -1076,7 +1151,7 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39908257" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24921875" sideWeight="0.4359352" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298217" sideWeight="0.67094016" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32874617" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32874617" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
@@ -1084,11 +1159,11 @@
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298217" sideWeight="0.64831805" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298217" sideWeight="0.6498471" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905984" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24959481" sideWeight="0.64831805" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.35168195" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25850892" sideWeight="0.6498471" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3501529" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1168,23 +1243,65 @@
     <MESSAGE value="css" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="4" />
+    </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/Necasa/Web/SigninController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/Necasa/Background/PhotoRepository.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="19" selection-start="698" selection-end="698" vertical-scroll-proportion="0.0">
+        <state line="5" column="17" selection-start="138" selection-end="138" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/Necasa/Background/AccountRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="17" selection-start="140" selection-end="140" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="57" column="61" selection-start="1665" selection-end="1665" vertical-scroll-proportion="-16.586206">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/Necasa/Web/LoginController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="26" selection-start="1071" selection-end="1071" vertical-scroll-proportion="0.0">
+        <state line="15" column="13" selection-start="506" selection-end="506" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/Necasa/Web/Comment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="13" selection-start="125" selection-end="125" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/db/startdb.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapp/images/IMG0001.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/Necasa/Background/CommentRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="6" selection-start="200" selection-end="200" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -1196,77 +1313,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="65" selection-start="593" selection-end="593" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webapp/stylesheets/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="14" selection-start="738" selection-end="743" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/webapp/stylesheets/upload.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="436" selection-end="535" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/Necasa/Web/Photo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="13" selection-start="98" selection-end="98" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/Necasa/Web/BoardController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="27" selection-start="749" selection-end="765" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webapp/stylesheets/list.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="1" selection-start="870" selection-end="870" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webapp/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="0" selection-start="999" selection-end="999" vertical-scroll-proportion="-24.827587">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webapp/list.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="11" selection-start="253" selection-end="253" vertical-scroll-proportion="-4.137931">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webapp/logout.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webapp/signin.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="32" selection-start="151" selection-end="151" vertical-scroll-proportion="-2.5172415">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webapp/signingOK.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
@@ -1275,18 +1322,137 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/webapp/upload.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="49" selection-start="154" selection-end="154" vertical-scroll-proportion="-2.7586207">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.27586207">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/webapp/view.jsp">
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/Necasa/Web/HomeController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="49" selection-start="212" selection-end="212" vertical-scroll-proportion="0.24169184">
+        <state line="6" column="13" selection-start="164" selection-end="164" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/Necasa/Web/BoardController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="52" column="59" selection-start="1891" selection-end="1891" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/Necasa/Web/Encryption.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="13" selection-start="122" selection-end="122" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/Necasa/Web/CommentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="32" selection-start="1519" selection-end="1536" vertical-scroll-proportion="-4.509804">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapp/list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="78" column="63" selection-start="2499" selection-end="2499" vertical-scroll-proportion="5.0814333">
+          <folding>
+            <marker date="1384856674000" expanded="true" signature="3036:3050" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>Necasa:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>JPA</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Necasa</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
 

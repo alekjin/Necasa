@@ -14,12 +14,12 @@ public class SigninController {
 	@Autowired
 	private AccountRepository accountRepository;
 
-	@RequestMapping(value = "signin.opo")
+	@RequestMapping(value = "signin")
 	public String signinpage() {
-		return "signin.jsp";
+		return "signin";
 	}
 
-	@RequestMapping(value = "signing.opo", method = RequestMethod.POST)
+	@RequestMapping(value = "signing", method = RequestMethod.POST)
 	public String signin(Account account, Model model) {
 		account.setPasswd(Encryption.SHA1encryption(account.getPasswd()));
 		accountRepository.save(account);

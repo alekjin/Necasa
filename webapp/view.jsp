@@ -4,17 +4,32 @@
 <head>
 	<title>show</title>
 	<link rel="stylesheet" type="text/css" href="/stylesheets/view.css">
+	<script>
+		function countComments() {
+			commentsList = document.querySelectorAll('.commentswrap');
+			for (var i = 0 ; i < commentsList.length ; i++) {
+				var currentNode = commentsList[i];
+				var nCommentCount = currentNode.querySelectorAll('.commentwrap').length;
+				return nCommentCount;
+			}
+		}
+
+		function insertCommentsCount() {
+			var count = countComments();
+			document.getElementById("comment_number").innerHTML = "Comments : " + count;
+		}
+	</script>
 </head>
 <body>
 <p> 제목 : ${photo.title} </p>
 <p> 내용 : ${photo.contents} </p>
 <p> 사진 이름 : ${photo.filename} </p>
-<p><a href="/board/view/main.opo"> 목록으로 돌아가기 <- </a></p>
+<p><a href="/board/view/main"> 목록으로 돌아가기 <- </a></p>
 <img src="/images/${photo.filename}" />
 <c:choose>
 	<c:when test="${not empty sessionScope.userId}">
-		<div id="comment_write">
-			<form id="commentWrite" action="/board/view/${photo.id}/comment" method="post">
+		<div class="comment_write">
+			<form class="commentWrite" action="/board/view/${photo.id}/comment" method="post">
 			<p>Comment : </p>
 			<p><textarea name="comment"></textarea></p>
 			<p><input type="submit"> </p>
@@ -27,10 +42,16 @@
 
 
 <div id="comment_view">
-	<c:forEach items="${photo.comments}" var="comment">
-	${comment.userid} : ${comment.comment}
-	<hr/>
-	</c:forEach>
+	<div id="comment_number">
+	</div>
+	<div class="commentswrap">
+		<c:forEach items="${photo.comments}" var="comment">
+			<div class="commentwrap">
+				<p>${comment.userid} : ${comment.comment}</p>
+			</div>
+			<hr/>
+		</c:forEach>
+	</div>
 </div>
 </body>
 </html>

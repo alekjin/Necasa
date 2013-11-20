@@ -1,10 +1,13 @@
 package org.Necasa.Web;
 
+import org.codehaus.jackson.annotate.JsonIgnore;
+
 import javax.persistence.*;
 import java.util.List;
 
 @Entity
 public class Photo {
+
 	public Photo() {
 	}
 
@@ -22,6 +25,7 @@ private Long id;
 	private String contents;
 	@Column(length = 50, nullable = false)
 	private String filename;
+
 
 
 	@OneToMany(mappedBy = "photo", fetch = FetchType.EAGER)

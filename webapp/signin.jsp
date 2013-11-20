@@ -4,7 +4,7 @@
 	<title>Sign in</title>
 </head>
 <body>
-<form name="signinform" action="/signing.opo" method="POST">
+<form name="signinform" action="/signing" method="POST">
 	<p><label id="signin_lable"><strong>가입 하세요</strong></label></p>
 	<p>ID :
 		<input name="userid" type="text" placeholder="ID" size="10px"></p>

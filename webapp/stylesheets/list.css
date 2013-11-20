@@ -29,8 +29,13 @@ em,address{font-style:normal} a{text-decoration:none} a:hover,a:active,a:focus{t
 	text-align: left;
 	color: blueviolet;
 	padding-left: 10px;
+	display: none;
 }
 
-#bodywrap {
+.bodywrap {
 	margin: 0 auto;
+}
+
+.commentwrap{
+
 }

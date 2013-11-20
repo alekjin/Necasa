@@ -17,7 +17,7 @@ public class LoginController {
 	@Autowired
 	private AccountRepository accountRepository;
 
-	@RequestMapping(value = "/login", method = RequestMethod.POST)
+	@RequestMapping(value = "login", method = RequestMethod.POST)
 	public String login(Account account, HttpSession httpSession) {
 		Account targetAccount = accountRepository.findByuserid(account.getUserid());
 				if (targetAccount.getUserid().equals(account.getUserid()) && targetAccount.getPasswd().equals(Encryption.SHA1encryption(account.getPasswd()))) {
@@ -28,8 +28,8 @@ public class LoginController {
 
 	}
 
-	@RequestMapping(value = "logout.opo")
+	@RequestMapping(value = "logout")
 	public String logout() {
-		return "logout.jsp";
+		return "logout";
 	}
 }

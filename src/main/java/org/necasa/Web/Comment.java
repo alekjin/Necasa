@@ -1,5 +1,7 @@
 package org.Necasa.Web;
 
+import org.codehaus.jackson.annotate.JsonIgnore;
+
 import javax.persistence.*;
 
 @Entity
@@ -19,7 +21,7 @@ public class Comment {
 	}
 
 	@ManyToOne
-	private Photo photo;
+	private @JsonIgnore Photo photo;
 
 	public Photo getPhoto() {
 		return photo;

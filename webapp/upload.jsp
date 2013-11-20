@@ -9,7 +9,7 @@
 
 <body>
 	<div id="upload_photo">
-		<form name="uploadphoto" action="/board/uploading.opo" method="POST" enctype="multipart/form-data" accept="image/gif, image/jpeg, image/png">
+		<form name="uploadphoto" action="/board/uploading" method="POST" enctype="multipart/form-data" accept="image/gif, image/jpeg, image/png">
 
 			<label id="choose_upload"><strong>업로드할 사진을 고르세요</strong></label> <br />
 			<input name="file" type="file"> <br />
